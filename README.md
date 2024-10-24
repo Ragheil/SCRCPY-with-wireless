@@ -1,4 +1,5 @@
 **Wireless Setup Flow for scrcpy, ensure the device is connected to the same Wi-Fi network as the computer.**
+
 Enable **Developer Options**
 
 **On the device, navigate to Developer Options**
